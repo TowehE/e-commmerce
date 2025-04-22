@@ -12,6 +12,7 @@ const config = {
   },
 };
 
+
 // Initialize Sequelize 
 const sequelize = new Sequelize({
   dialect: 'postgresql',
